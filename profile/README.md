@@ -1,4 +1,6 @@
-## Hi there 👋
+# Qualia Insights
+
+We are a small business that provides counseling services and develops open source software.  The open source software will be developed here on GitHub.  
 
 <!--
 
